@@ -8,25 +8,5 @@
         "corporation": "0",
         "message": "aaa",
         "receiveNum": "aaa"
-    },
-    {
-        "corporation": "0",
-        "message": "bbb",
-        "receiveNum": "bb"
-    },
-    {
-        "corporation": "0",
-        "message": "ccc",
-        "receiveNum": "ccc"
-    },
-    {
-        "corporation": "1",
-        "message": "ddd",
-        "receiveNum": "ddd"
-    },
-     {
-        "corporation": "2",
-        "message": "eee",
-        "receiveNum": "eee"
     }
 ]
