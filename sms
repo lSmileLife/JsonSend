@@ -1,21 +1,21 @@
 [
      {
-        "corporation": "0",
-        "message": "aaa",
-        "receiveNum": "aaa"
-    },
-    {
-        "corporation": "0",
-        "message": "aaa",
-        "receiveNum": "aaa"
-    },
-    {
         "corporation": "1",
+        "message": "aaa",
+        "receiveNum": "aaa"
+    },
+    {
+        "corporation": "0",
+        "message": "aaa",
+        "receiveNum": "aaa"
+    },
+    {
+        "corporation": "0",
         "message": "bbb",
         "receiveNum": "bb"
     },
     {
-        "corporation": "1",
+        "corporation": "0",
         "message": "ccc",
         "receiveNum": "ccc"
     },
