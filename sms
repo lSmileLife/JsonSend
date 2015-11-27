@@ -6,12 +6,12 @@
     },
     {
         "corporation": "1",
-        "message": "123",
-        "receiveNum": "123"
+        "message": "",
+        "receiveNum": ""
     },
     {
         "corporation": "1",
-        "message": "123",
-        "receiveNum": "123123"
+        "message": "",
+        "receiveNum": ""
     }
 ]
