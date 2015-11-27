@@ -1,17 +1,17 @@
 [
      {
         "corporation": "1",
-        "message": ,
-        "receiveNum": 
+        "message": "aa",
+        "receiveNum":"aa": 
     },
     {
         "corporation": "0",
-        "message": ,
-        "receiveNum":
+        "message":"b" ,
+        "receiveNum":"bb"
     },
     {
         "corporation": "0",
-        "messageb": ,
-        "receiveNuma":
+        "messageb": "c",
+        "receiveNuma":"cc"
     }
 ]
