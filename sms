@@ -2,16 +2,21 @@
      {
         "corporation": "1",
         "message": "aa",
-        "receiveNum":"aa": 
+        "receiveNum":"aa"
     },
     {
         "corporation": "0",
-        "message":"db" ,
-        "receiveNum":"bb"
+        "message":"联通" ,
+        "receiveNum":"15889963752"
     },
     {
-        "corporation": "0",
-        "messageb": "c",
-        "receiveNuma":"cc"
+        "corporation": "1",
+        "messageb": "移动",
+        "receiveNuma":"15889963752"
+    },
+    {
+        "corporation": "2",
+        "messageb": "联通",
+        "receiveNuma":"15889963752"
     }
 ]
