@@ -1,20 +1,12 @@
 [{
 		"username": "hlh",
-		"mac": "18707622762"
+		"mac": "18707622762",
+		"use":"1"
 	},
 
 	{
 		"username": "hlh",
-		"mac": "966EC9613FC160BE100506BC86E76865"
-	},
-
-	{
-		"username": "hlh",
-		"mac": "123123123"
-	},
-
-	{
-		"username": "hlh",
-		"mac": "123123123"
+		"mac": "966EC9613FC160BE100506BC86E76865",
+			"use":"1"
 	}
 ]
