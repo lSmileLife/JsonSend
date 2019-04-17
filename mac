@@ -1,0 +1,21 @@
+[
+     {
+        "mac":"123123123"
+    },
+    {
+        "corporation": "0",
+        "message":"联通" ,
+        "receiveNum":"ccc"
+    },
+    {
+        "corporation": "1",
+        "messageb": "移动",
+        "receiveNuma":"ccc"
+    },
+    {
+        "corporation": "2",
+        "messageb": "联通",
+        "receiveNuma":"ccc"
+    }
+]
+
