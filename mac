@@ -10,8 +10,13 @@
 			"use":"1"
 	},
 	{
-		"username": "XHS",
+		"username": "JIA",
 		"mac": "2DD8EBC0FE5B140D0C79224E1D2BEEBD",
+			"use":"1"
+	},
+	{
+		"username": "CHAOGE",
+		"mac": "BC5E45074AE187A3D4823C85D47209D9",
 			"use":"1"
 	}
 ]
