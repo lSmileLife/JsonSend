@@ -18,5 +18,10 @@
 		"username": "CHAOGE",
 		"mac": "BC5E45074AE187A3D4823C85D47209D9",
 			"use":"1"
+	},{
+		"username": "192.168.110.92",
+		"mac": "BC5E45074AE187A3D4823C85D47209D9",
+			"use":"1"
 	}
+	
 ]
